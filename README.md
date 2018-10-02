@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 RPLIDAR ROS package
 =====================================================================
 
@@ -44,6 +45,10 @@ Notice: the different is serial_baudrate between A1/A2 and A3
 RPLidar frame
 =====================================================================
 RPLidar frame must be broadcasted according to picture shown in rplidar-frame.png
+=======
+# rplidar_ros
+rplidar ros package customized
+>>>>>>> 33219b9ffef577929273a68f4be7f0ebd973d52a
 =======
 # rplidar_ros
 rplidar ros package customized
